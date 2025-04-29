@@ -1,4 +1,4 @@
-# AI-Application
+# AI-Application - LingoBaby
 
 인공지능응용 팀플 레포입니다.
 
