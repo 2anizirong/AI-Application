@@ -24,6 +24,9 @@
 | 김예현 | https://github.com/xoyulkim |
 | 최이나 | https://github.com/yina00 |
 
+## ⭐ 노션 자료
+https://small-feet-90d.notion.site/1d0aa5b897de806680e0f030a47172a9?pvs=4
+
 ## **🗓️ 주차별 활동 및 팀원별 담당**
 
 | **팀원별** |  | **김이안**<br>텍스트/모델 파이프라인<br>전처리 및 모델 학습 | **김가윤**<br>Whisper 기반 음성 → 텍스트 변환 및 성능 평가 | **김예현**<br>음성 특성 추출 및 rule 기반 시스템 구성 | **최이나**<br>추천 시스템 설계 및 최종 사용자 출력 로직 구현 |
